@@ -10,7 +10,7 @@
 [[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
 ```
 
-# [Discord tokene giriş yapma!](https://github.com/sqarlex/discord-token-login/blob/main/token-login.monkey)
+# [Discord token ile giriş yapmak!](https://github.com/sqarlex/discord-token-login/blob/main/token-login.monkey)
 ```c#
 function login(token) {
 setInterval(() => {
