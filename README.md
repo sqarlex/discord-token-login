@@ -1,10 +1,9 @@
 <div align="center">
-# discord-token-login
-
-Discord hesabının tokenini alma ve token ile giriş yapma kodları.
-
-Bu benim tarafımdan yapılmadı! (evet güvenlidir tokenlerinizi çalmaz).
-
+[!] Bu benim tarafımdan yapılmadı! (evet güvenlidir tokenlerinizi çalmaz)
+  
+[discord.com](https://discord.com/login) > F12 (CTRL + SHIFT + I) > Console > kullancağın kodu yapıştır.
+  
+  
 # [Discord tokeni elde etme!](https://github.com/sqarlex/discord-token-login/blob/main/get-token.monkey)
 ```c# #merhaba biliyorum bu c# değil ama ben rengini beğendim.
 (webpackChunkdiscord_app.push(
