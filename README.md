@@ -1,3 +1,4 @@
+<div align="center">
 # discord-token-login
 
 Discord hesabının tokenini alma ve token ile giriş yapma kodları.
@@ -23,3 +24,4 @@ location.reload();
 
 login('TOKENI_BURAYA_YAPISTIR')
 ```
+</div>
