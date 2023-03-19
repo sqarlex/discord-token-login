@@ -1,7 +1,7 @@
 <div align="center">
 [!] Bu benim tarafımdan yapılmadı! (evet güvenlidir tokenlerinizi çalmaz)
   
-[discord.com](https://discord.com/login) > F12 (CTRL + SHIFT + I) > Console > kullancağın kodu yapıştır.
+[discord.com](https://discord.com/login) > F12 (CTRL + SHIFT + I) > Console > kullanacağın kodu yapıştır.
   
   
 # [Discord tokeni elde etme!](https://github.com/sqarlex/discord-token-login/blob/main/get-token.monkey)
